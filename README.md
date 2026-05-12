@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Shifat
 
-<!--
-**shifaturrahman69/shifaturrahman69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Digital Marketer & Social Media Account Recovery Specialist from Bangladesh.  
+Currently learning Cybersecurity, Ethical Hacking, and Web Development to build my future as a Software Engineer & Security Researcher.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+- Facebook Account Recovery
+- Instagram Hacked Account Recovery
+- Meta Verified Support
+- Social Media Marketing
+- Web Development Learning
+- Cybersecurity & CTF Practice
+
+---
+
+## 🌱 Currently Learning
+- Ethical Hacking
+- Cybersecurity Fundamentals
+- Web Development
+- Networking
+- Linux
+- CTF Challenges
+
+---
+
+## 📫 Connect With Me
+- Facebook
+- Instagram
+- LinkedIn
+
+---
+
+## ⚡ Fun Fact
+I love solving digital problems, learning security systems, and building my future through technology 🚀
