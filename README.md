@@ -1,7 +1,6 @@
 ### Hi there 👋, Md. Shifatur Rahman
 #### 🤝 Helping You Recover & Secure Social Media 🔐 Digital Marketer 🚀| Online Safety Expert| 🥷💻
-
-https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/668979483_2346096769553609_4452937871093673618_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGnRVfJQS8tJvMVEAp0QWlgr3V0viQmbJavdXS-JCZslrLxoV4RfLdXkt1tNRWumMskhgDW7-qL8o7fWlqhhwQF&_nc_ohc=J_61aJUxwwoQ7kNvwEjlRzV&_nc_oc=AdpsLbTEEj57GjpzdLts4RfOCVmTGk7BOyLuuhuoeE39AQDz8aOZ2lgvmrieipkaNAA&_nc_zt=23&_nc_ht=scontent.fdac90-1.fna&_nc_gid=zUxjUaXJfZwcdViwoApBNA&_nc_ss=7a2a8&oh=00_Af4-H7N5AKFlzkOeYF00kdCW1IX_8x8gdJl6iY1jF9vA1A&oe=6A094582
+![🤝 Helping You Recover & Secure Social Media 🔐 Digital Marketer 🚀| Online Safety Expert| 🥷💻](https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/668979483_2346096769553609_4452937871093673618_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGnRVfJQS8tJvMVEAp0QWlgr3V0viQmbJavdXS-JCZslrLxoV4RfLdXkt1tNRWumMskhgDW7-qL8o7fWlqhhwQF&_nc_ohc=J_61aJUxwwoQ7kNvwEjlRzV&_nc_oc=AdpsLbTEEj57GjpzdLts4RfOCVmTGk7BOyLuuhuoeE39AQDz8aOZ2lgvmrieipkaNAA&_nc_zt=23&_nc_ht=scontent.fdac90-1.fna&_nc_gid=zUxjUaXJfZwcdViwoApBNA&_nc_ss=7a2a8&oh=00_Af4-H7N5AKFlzkOeYF00kdCW1IX_8x8gdJl6iY1jF9vA1A&oe=6A094582)
 
 Hello,
 My Name is Md. Shifatur Rahman. 
@@ -57,5 +56,4 @@ Skills: Account Recovery, Locked / Suspended ID Recovery , Online Marketing, Soc
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shifatur.rahman.official/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md.Shifatur.Rahman.Official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shifatur.rahman.official/)  
-
 
